@@ -13,4 +13,6 @@ make
 ./client
 
 
+
+
 Run the server.c using sudo giving the root privileges
