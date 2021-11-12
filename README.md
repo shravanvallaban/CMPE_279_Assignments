@@ -7,7 +7,9 @@
 Type the following commands in the Ass1 folder
 
 make
+
 ./server
+
 ./client
 
 
