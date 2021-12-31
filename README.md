@@ -1,6 +1,6 @@
 # CMPE_279_Assignments
 
-#### Team Memebers
+#### Team
 ##### Shravan Vallaban 015443402
 
 ## How to Run?
